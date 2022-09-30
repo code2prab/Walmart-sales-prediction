@@ -10,8 +10,8 @@ supplies to all the warehouses.
 # 2. Description of Dataset
 This is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the file 
 WalmartStoresales. Within this file you will find the following fields:
-  • Store - the store number
-  • Date - the week of sales
+--> Store - the store number
+--> Date - the week of sales
   • Weekly_Sales - sales for the given store
 • Holiday_Flag - whether the week is a special holiday week 1 – Holiday week 0 – Nonholiday week
 • Temperature - Temperature on the day of sale
