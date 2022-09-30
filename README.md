@@ -11,14 +11,14 @@ supplies to all the warehouses.
 
 This is the historical data that covers sales from 2010-02-05 to 2012-11-01, in the file 
 WalmartStoresales. Within this file you will find the following fields:<br />
- --> Store - the store number__
- --> Date - the week of sales
- --> Weekly_Sales - sales for the given store
- -->Holiday_Flag - whether the week is a special holiday week 1 – Holiday week 0 – Nonholiday week
- --> Temperature - Temperature on the day of sale
- --> Fuel_Price - Cost of fuel in the region
- --> CPI – Prevailing consumer price index
- --> Unemployment - Prevailing unemployment rate
+ --> Store - the store number<br />
+ --> Date - the week of sales<br />
+ --> Weekly_Sales - sales for the given store<br />
+ -->Holiday_Flag - whether the week is a special holiday week 1 – Holiday week 0 – Nonholiday week<br />
+ --> Temperature - Temperature on the day of sale<br />
+ --> Fuel_Price - Cost of fuel in the region<br />
+ --> CPI – Prevailing consumer price index<br />
+ --> Unemployment - Prevailing unemployment rate<br />
 # Holiday Events
 Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13\
 Labour Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13\
